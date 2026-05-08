@@ -10,7 +10,7 @@ from utils.database import init_db, get_stats
 from utils.translations import t
 
 st.set_page_config(
-    page_title="Edge-Agri v4 🌾 | কৃষি AI",
+    page_title="Edge-Agri  | কৃষি AI",
     page_icon="🌾",
     layout="wide",
     initial_sidebar_state="collapsed",
