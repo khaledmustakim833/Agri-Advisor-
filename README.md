@@ -1,4 +1,4 @@
-# 🌾 Edge-Agri v4
+# Edge-Agri 
 ### World-Class Offline, Dialect-Aware Multilingual Agricultural Advisory System
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
